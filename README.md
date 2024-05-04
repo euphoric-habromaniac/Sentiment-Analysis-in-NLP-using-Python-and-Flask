@@ -29,7 +29,7 @@ pip install Flask flask_bootstrap textblob
 Clone this repository:
 
 ```bash
-git clone https://github.com/euphoric.habromaniac/Sentiment-Analysis-in-NLP-using-Python-and-Flask.git
+https://github.com/euphoric-habromaniac/Sentiment-Analysis-in-NLP-using-Python-and-Flask.git
 ```
 
 ### Navigate to the project directory:
